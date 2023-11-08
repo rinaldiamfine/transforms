@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "806710237177",
+    "project_id": "transforms-3a8c5",
+    "storage_bucket": "transforms-3a8c5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:806710237177:android:f29a6f66b0bea7234b0f28",
+        "android_client_info": {
+          "package_name": "com.example.transforms"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB9Y1w0hMdSqA2oob8Z1QYdIP8jFEkb870"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

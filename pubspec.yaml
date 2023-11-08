@@ -1,0 +1,33 @@
+name: transforms
+description: A new Flutter project.
+publish_to: 'none'
+version: 0.1.0
+
+environment:
+  sdk: '>=3.1.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  get:
+  get_storage:
+  flutter_alice:
+  package_info_plus: ^4.0.2
+  device_info_plus: ^9.0.2
+  overlay_support:
+  blurrycontainer:
+  image_picker:
+  skeletonizer:
+  custom_sliding_segmented_control:
+  timeago:
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^2.0.0
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/images/
+    - assets/icons/
